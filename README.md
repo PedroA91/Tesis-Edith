@@ -5,3 +5,5 @@ la Licenciatura en Matemáticas.
 ESCUELA DE CIENCIAS: UABJO.
 
 Contiene redacción de tesis e implementaciones computacionales realizadas.
+
+Lic. Pedro Antonio Peralta Regalado.
